@@ -1,0 +1,84 @@
+<!--1.Create a webpage with a simple layout using headings, paragraphs, and alignment tags. Students should structure a personal bio or resume and center or align text where appropriate.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: lemonchiffon;">
+  <h1 style="text-align: center;">Resume Builder</h1>
+  <form style="text-align: center;">
+  <h3 style="text-align: center;">Personal Information</h3>
+    <!--Text input-->
+    <label >Full Name :</label>
+    <br>
+    <input type="text">
+    <br>
+    
+
+      <!--Email input-->
+    <label >Email :</label>
+    <br>
+    <input type="email">
+    <br>
+    
+   
+    <!--Number-->
+    <label >Phone</label>
+    <br>
+    <input type="number">
+    <br>
+    
+    <!--Date-->
+    <label >Date of Birth</label>
+    <br>
+    <input type="date">
+    <br>
+    
+
+
+    <h3 style="text-align: centre;">Education Details:</h3>
+    <label >Degree:</label>
+    <br>
+    <input type="text">
+    <br>
+    
+
+    <label >School/University :</label>
+    <br>
+    <input type="text">
+    <br>
+    
+
+    <label >Marks( in percentage) :</label>
+    <br>
+    <input type="text">
+    <br>
+    
+
+    <h3 style="text-align: centre;">Project :</h3>
+    <label >Title :</label>
+    <br>
+    <input type="text">
+    <br>
+    <br<label >Summary:</label>
+    <br>
+    <input type="text">
+    <br>
+    
+    <label >Technology :</label>
+    <br>
+    <input type="text">
+    <br>
+
+    <h3 style="text-align: centre;">Skills</h3>
+    <label >List of skills(comma_seperated):</label>
+    <br>
+    <input type="text">
+    <br>
+    <button style="background-color:aquamarine;">Submit Resume</button>
+    </form>
+</body>
+</html>
