@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: burlywood">
+    <h1>Not a real CRM</h1>
+    <ul>
+      <li>Home</li>
+      <li>Catelog</li>
+      <li>Inventory</li>
+    </ul>
+
+    <h2>Contacts</h2>
+    <h3>My CRM</h3>
+    <ul>
+      <li>Contacts</li>
+      <li>Orders</li>
+      <li>Calender</li>
+      <li>Tasks</li>
+      <li>Evaluation Copies</li>
+    </ul>
+
+    <h3>Jack Smith</h3>
+
+    <label>Address :</label>
+    <input type="text" />
+    <br />
+    <label>City : </label>
+    <input type=" text" />
+    <br />
+    <label>Region : </label>
+    <input type=" text" />
+    <br />
+    <label>Country : </label>
+    <input type=" text" />
+    <br />
+    <label>Postal :</label>
+    <input type="number" />
+    <br />
+    <label>Email :</label>
+    <input type="email" />
+    <br />
+    <!--
+<img src="../images/india.jpg" height="300px" width="300px" alt="Map for jack smith">
+-->
+
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14992.370799224667!2d73.83763305!3d20.04655955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddea01366f7e35%3A0x50e61cb61cb3c004!2sBhujbal%20Knowledge%20City%2C%20Adgaon%2C%20Nashik%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1730809742935!5m2!1sen!2sin"
+      width="600"
+      height="450"
+      style="border: 0"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+    ></iframe>
+    <h3>Last Contact Viewed</h3>
+    <p><u>Camile Bamerd</u></p>
+    <a href="htpps://leetcode.com">Home | </a>
+    <a href="htpps://leetcode.com">Catalog |</a>
+    <a href="htpps://leetcode.com">Inventory </a>
+    <p>Copyright@ 2015</p>
+  </body>
+</html>
