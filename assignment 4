@@ -1,0 +1,85 @@
+<!--4.Design a multiple-choice quiz using radio buttons for each question. At the end of the quiz, provide a submit button.(10 questions)-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: blanchedalmond">
+    <h1 style="text-align: center">Java MCQ</h1>
+
+    <ol type="1">
+      <li>Default access specifier in java</li>
+
+      <input type="radio" name="a" id="" />Public
+      <input type="radio" name="a" id="" />Private
+      <input type="radio" name="a" id="" />Protected
+      <input type="radio" name="a" id="" />Default
+      <br />
+      <li>Java is _________</li>
+
+      <input type="radio" name="b" id="" />Object Oriented
+      <input type="radio" name="b" id="" />Procedure Oriented
+      <input type="radio" name="b" id="" />None
+      <input type="radio" name="b" id="" />Default
+      <br />
+      <li>Protected is used in _</li>
+
+      <input type="radio" name="c" id="" />Inheritance
+      <input type="radio" name="c" id="" />Encapsulation
+      <input type="radio" name="c" id="" />Abstraction
+      <input type="radio" name="c" id="" />Polymorphism
+      <br />
+      <li>Polymorphism means_</li>
+
+      <input type="radio" name="d" id="" />Many forms
+      <input type="radio" name="d" id="" />One from
+      <input type="radio" name="d" id="" />none
+      <input type="radio" name="d" id="" />Default
+      <br />
+      <li>what is main in java?</li>
+
+      <input type="radio" name="e" id="" />Entry point
+      <input type="radio" name="e" id="" />Execution start from main
+      <input type="radio" name="e" id="" />must one
+      <input type="radio" name="e" id="" />all
+      <br />
+      <li>what is class in java?</li>
+
+      <input type="radio" name="f" id="" />Template
+      <input type="radio" name="f" id="" />Blueprint
+      <input type="radio" name="f" id="" />Both
+      <input type="radio" name="f" id="" />Logical or phisical
+      <br />
+      <li>What is bit?</li>
+
+      <input type="radio" name="g" id="" />1
+      <input type="radio" name="g" id="" />0
+      <input type="radio" name="g" id="" />none
+      <input type="radio" name="g" id="" />Default
+      <br />
+      <li>Encapsulation is _________</li>
+
+      <input type="radio" name="h" id="" />Binding data and code together
+      <input type="radio" name="h" id="" />Private
+      <input type="radio" name="h" id="" />Protected
+      <input type="radio" name="h" id="" />Default
+      <br />
+      <li>Default access specifier in java</li>
+
+      <input type="radio" name="i" id="" />Public
+      <input type="radio" name="i" id="" />Private
+      <input type="radio" name="i" id="" />Protected
+      <input type="radio" name="i" id="" />Default
+      <br />
+      <li>what is Hashmap ?</li>
+
+      <input type="radio" name="j" id="" />key value pair
+      <input type="radio" name="j" id="" />Private
+      <input type="radio" name="j" id="" />Protected
+      <input type="radio" name="j" id="" />Default
+      <br />
+    </ol>
+  </body>
+</html>
