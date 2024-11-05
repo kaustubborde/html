@@ -1,0 +1,21 @@
+<!--3.Design a basic blog page layout with the following:
+A header section with the blog title.
+A main section with blog posts, each inside an <article> with title, date, and content.
+A sidebar with links to recent posts.
+A footer with copyright information.-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: rgb(185, 214, 205)">
+    <h1>Blog Title</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique ipsam
+      sapiente sint nostrum, quas soluta quo eaque rem expedita aliquid, atque
+      odio deserunt amet omnis perferendis! Repellat aliquid quae voluptates?
+    </p>
+  </body>
+</html>
