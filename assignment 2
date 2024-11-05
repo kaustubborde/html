@@ -1,0 +1,56 @@
+<!--2.Create a feedback form that uses different HTML controls such as:
+Text input for Name.
+Textarea for Comments.
+Radio buttons for Rating.
+Checkbox for terms and conditions.
+Dropdown for selecting a category.
+Submit and reset buttons.-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: rgb(176, 221, 206)">
+    <h1 style="text-align: center">Feedback form</h1>
+    <form style="text-align: center">
+      <label>Name </label>
+      <br />
+      <input type="text" />
+
+      <br />
+      <label>Comments </label>
+      <br />
+      <input type="text" />
+
+      <br />
+      <label>Ratings </label>
+      <br />
+
+      <input type="radio" name="rating" id="" />1
+      <input type="radio" name="rating" id="" />2
+      <input type="radio" name="rating" id="" />3
+      <input type="radio" name="rating" id="" />4
+      <input type="radio" name="rating" id="" />5
+      <br />
+
+      <label>Terms And Condition </label>
+
+      <input type="checkbox" />
+
+      <br />
+      <br />
+      <label>Select Category:</label>
+      <select name="" id="">
+        <option value="Womens Clothing">Womens Clothing</option>
+        <option value="Mens Clothing">Mens Clothing</option>
+        <option value="kids">kids</option>
+      </select>
+      <br />
+      <br />
+      <button style="background-color: blanchedalmond">Submit</button>
+      <button style="background-color: burlywood">Reset</button>
+    </form>
+  </body>
+</html>
