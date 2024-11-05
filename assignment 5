@@ -1,0 +1,32 @@
+<!--https://lh3.googleusercontent.com/drive-storage/AJQWtBOvuUNcx1kdGTnOaG0xALpCj9N_wjLHNDAH_AAoIrs3lCOcr0qbox80kdy4CAoARBGBsozWEB3Xtdagm-0Wc2N97A1hex0Vm2x_MXKYcPo5ZeQ=w1349-h581-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: azure">
+    <h1>Share Your travels</h1>
+    <h3>New York-Centre Park</h3>
+    <h5>Photo by Mayu</h5>
+    <img src="images/nature.jpeg" alt="nature image" />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium,
+      ullam excepturi architecto dolor quam perspiciatis doloribus quasi vel
+      reiciendis sapiente in voluptatibus repellendus nostrum hic accusamus iure
+      totam sint ut!
+    </p>
+
+    <h3>Reviews</h3>
+    <p>By Mayu on September 2024</p>
+    <p>Easy on HDR Buddy</p>
+    <hr />
+    <p>By Adu on August 2024</p>
+    <p>I love centre park</p>
+    <hr />
+
+    <p>Copyright @2024</p>
+  </body>
+</html>
